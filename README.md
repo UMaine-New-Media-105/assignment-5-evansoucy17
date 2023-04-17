@@ -11,3 +11,8 @@ In the draw function, the background is set to black, and each bubble in the bub
 Bubble Simulation- https://editor.p5js.org/evansoucy17/sketches/qTLoUEofD
 
 I used the code from the previous sketch to create this one. I modified it slightly so that the number of bubbles increased compared to the last line of code. Other than that most everything else is very similar. The bubbles are randomly distributed across the canvas and when they reach the edge it gets wrapped around to the other side. I also used an array, a loop, and a Bubble object like the one I created for Question 1.
+
+
+ Populate your sim game- https://editor.p5js.org/evansoucy17/sketches/gmjfKILoX
+ 
+ I started by creating a cloud sprite, turning it into a class and then adding it into the copy of my code from question 2. I think took the fucntion I created for my frog sprite and turned it into a class. I did the same thing with my fly sprite. I then combine the lines of code so they are in the game. I did however had a difficult time with the scale of my sprites and something I need to adress before question 4. 
