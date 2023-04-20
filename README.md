@@ -16,3 +16,7 @@ I used the code from the previous sketch to create this one. I modified it sligh
  Populate your sim game- https://editor.p5js.org/evansoucy17/sketches/gmjfKILoX
  
  I started by creating a cloud sprite, turning it into a class and then adding it into the copy of my code from question 2. I think took the fucntion I created for my frog sprite and turned it into a class. I did the same thing with my fly sprite. I then combine the lines of code so they are in the game. I did however had a difficult time with the scale of my sprites and something I need to adress before question 4. 
+
+ Activate breeders- https://editor.p5js.org/evansoucy17/sketches/VuuyhtDb1
+ 
+ For this project I created a line of code that animated my breeders so they start at a random position and speed at the left edge of the screen, switching direction when they hit a canvas edge. I had a difficult time getting this to work becuase I had to scale my sprites becuase they were too big. So I had to go in and change my sprite size so the scale wouldn't effect the rest of my code. 
