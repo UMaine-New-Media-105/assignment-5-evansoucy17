@@ -20,3 +20,8 @@ I used the code from the previous sketch to create this one. I modified it sligh
  Activate breeders- https://editor.p5js.org/evansoucy17/sketches/VuuyhtDb1
  
  For this project I created a line of code that animated my breeders so they start at a random position and speed at the left edge of the screen, switching direction when they hit a canvas edge. I had a difficult time getting this to work becuase I had to scale my sprites becuase they were too big. So I had to go in and change my sprite size so the scale wouldn't effect the rest of my code. 
+ 
+ 
+ Activate catchers- https://editor.p5js.org/evansoucy17/sketches/JdYNW9ynG
+ 
+ For this assignment I created a line of code that animated my catchers so they will start at a random position and speed at the right edge of the screen, switching direction when they hit a canvas edge. I alsop added collision detection between a catcher and a breeder, and remove the breeder from the simulation. I struggled a bit with this code becuase whenever I added in the necessary code it would crash and I would have to start all my work over again. 
